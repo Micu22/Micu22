@@ -61,6 +61,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Overflow Ellipsis based on lines (Line Clamping)](https://biiird.com/blog/text-overflow-ellipsis-based-on-lines-line-clamping/)
+- [How to package a theme into a zip file using git](https://biiird.com/blog/how-to-package-a-theme-into-a-zip-file-using-git/)
+- [Improve performance of WP_Query](https://biiird.com/blog/improve-performance-of-wp_query/)
+- [How to set up Tailwind CSS (JIT) for WordPress](https://biiird.com/blog/how-to-set-up-tailwind-css-for-wordpress/)
+- [Mike’s story](https://biiird.com/blog/mikes-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://biiird.com/blog/)
