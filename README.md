@@ -14,11 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="biiird.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="biiird | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="biiird | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="biiird.com" width="22px" src="https://i.ibb.co/N6Y5GmW/earth-fill.png" />][website]
 [<img align="left" alt="biiird | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="biiird | Instagram" width="22px" src="https://ibb.co/W6G2CQM" />][instagram]
+[<img align="left" alt="biiird | Instagram" width="22px" src="https://i.ibb.co/VtJq6dz/instagram-line.png" />][instagram]
 
 <br />
 <br />
