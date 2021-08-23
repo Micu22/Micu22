@@ -1,5 +1,4 @@
-Profile of: [Michał Kuczek][michalkuczek.pl]
-## I'm a Psychology student, WordPress Developer, and Blueberry farmer!!
+## I'm a Psychology student, WordPress Developer, and Blueberry farmer 🤠
 
 - 📚 I have learned everything myself. I went to school only for 1 year, and from 6 grade no-one was telling me things, all I know is a result of active research. As a by-product I often have a different pespective on things.
 - 🧠 I am studying Organizational Psychology, because I want to be a mediator (someone who mediates in the process of finding Win-Win solutions)
@@ -18,7 +17,7 @@ Profile of: [Michał Kuczek][michalkuczek.pl]
 [<img align="left" alt="biiird.com" width="22px" src="https://i.ibb.co/h11Pcr0/earth-fill.png" />][website]
 [<img align="left" alt="Michał Kuczek | LinkedIn" width="22px" src="https://i.ibb.co/TcTNH03/linkedin-box-fill.png" />][linkedin]
 [<img align="left" alt="Michał Kuczek | Instagram" width="22px" src="https://i.ibb.co/608x0J4/instagram-line.png" />][instagram]
-
+<br />
 ## ✒ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Text Overflow Ellipsis based on lines (Line Clamping)](https://biiird.com/blog/text-overflow-ellipsis-based-on-lines-line-clamping/)
