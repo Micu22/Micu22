@@ -1,10 +1,9 @@
 Profile of: [Michał Kuczek][michalkuczek.pl]
-# I'm a Psychology student, WordPress Developer, and Blueberry farmer!!
+## I'm a Psychology student, WordPress Developer, and Blueberry farmer!!
 
-- 📚 I have learned everything myself (I went to school only for 1 year, and from 6 grade no-one was telling me things, all I know is a result of active research)
+- 📚 I have learned everything myself. I went to school only for 1 year, and from 6 grade no-one was telling me things, all I know is a result of active research. As a by-product I often have a different pespective on things.
 - 🧠 I am studying Organizational Psychology, because I want to be a mediator (someone who mediates in the process of finding Win-Win solutions)
 - 🌱 I’m currently learning ReactJS
-- <img align="left" alt="biiird.com" width="1rem" src="https://i.ibb.co/23K5P8d/door-open-fill.png" /> Opening new doors to new solutions is what inspires me the most
 
 ### 🚧 Currently working on
 
@@ -16,19 +15,11 @@ Profile of: [Michał Kuczek][michalkuczek.pl]
 
 ### 🔰 Connect with me:
 
-biiird.com 
 [<img align="left" alt="biiird.com" width="22px" src="https://i.ibb.co/h11Pcr0/earth-fill.png" />][website]
-LinkedIn 
 [<img align="left" alt="Michał Kuczek | LinkedIn" width="22px" src="https://i.ibb.co/TcTNH03/linkedin-box-fill.png" />][linkedin]
-Instagram 
 [<img align="left" alt="Michał Kuczek | Instagram" width="22px" src="https://i.ibb.co/608x0J4/instagram-line.png" />][instagram]
 
-<br />
-<br />
-
----
-
-# ✒ Blog posts
+## ✒ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Text Overflow Ellipsis based on lines (Line Clamping)](https://biiird.com/blog/text-overflow-ellipsis-based-on-lines-line-clamping/)
 - [How to package a theme into a zip file using git](https://biiird.com/blog/how-to-package-a-theme-into-a-zip-file-using-git/)
