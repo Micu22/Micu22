@@ -18,7 +18,7 @@
 [<img align="left" alt="Michał Kuczek | LinkedIn" width="22px" src="https://i.ibb.co/TcTNH03/linkedin-box-fill.png" />][linkedin]
 [<img align="left" alt="Michał Kuczek | Instagram" width="22px" src="https://i.ibb.co/608x0J4/instagram-line.png" />][instagram]
 <br />
-## ✒ Blog posts
+### ✒ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Text Overflow Ellipsis based on lines (Line Clamping)](https://biiird.com/blog/text-overflow-ellipsis-based-on-lines-line-clamping/)
 - [How to package a theme into a zip file using git](https://biiird.com/blog/how-to-package-a-theme-into-a-zip-file-using-git/)
