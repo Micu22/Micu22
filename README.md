@@ -16,11 +16,11 @@ Profile of: [Michał Kuczek][michalkuczek.pl]
 
 ### 🔰 Connect with me:
 
-#### biiird.com
+biiird.com 
 [<img align="left" alt="biiird.com" width="22px" src="https://i.ibb.co/h11Pcr0/earth-fill.png" />][website]
-#### LinkedIn
+LinkedIn 
 [<img align="left" alt="Michał Kuczek | LinkedIn" width="22px" src="https://i.ibb.co/TcTNH03/linkedin-box-fill.png" />][linkedin]
-#### Instagram
+Instagram 
 [<img align="left" alt="Michał Kuczek | Instagram" width="22px" src="https://i.ibb.co/608x0J4/instagram-line.png" />][instagram]
 
 <br />
