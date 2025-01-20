@@ -1,14 +1,15 @@
-## I'm a Psychology student, WordPress Developer, and Blueberry farmer 🤠
+## I'm a Psychologist and data analyst
 
+- 📚
 - 📚 I have learned everything myself. I went to school only for 1 year, and from 6 grade no-one was telling me things, all I know is a result of active research. As a by-product I often have a different pespective on things.
-- 🧠 I am studying Organizational Psychology, because I want to be a mediator (someone who mediates in the process of finding Win-Win solutions)
-- 🌱 I’m currently learning ReactJS
+- 🧠 As a Psychologist, I offer help with CBT-I therapy for insomnia and other sleep related problems.
+- 🌱 I am learning R-lang.
 
 ### 🚧 Currently working on
 
 - ✒ Writing excesises & Planning app ([first version in Polish][writing_program])
 - 🦉 [Wiser @ Work][wiseratwork]
-- 🎬 Planning to start a YT channel
+- 🎬 YT channel: https://www.youtube.com/@biiirdstudio
 
 ❗ cause, Some things we don't have time NOT to do!
 
