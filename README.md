@@ -1,7 +1,6 @@
 ## I'm a Psychologist and data analyst
 
-- 📚
-- 📚 I have learned everything myself. I went to school only for 1 year, and from 6 grade no-one was telling me things, all I know is a result of active research. As a by-product I often have a different pespective on things.
+- 📚 I have learned stuff myself. I went to school only for 1 year, and from 6 grade, all I know is a result of active research.
 - 🧠 As a Psychologist, I offer help with CBT-I therapy for insomnia and other sleep related problems.
 - 🌱 I am learning R-lang.
 
@@ -28,12 +27,12 @@
 - [Mike’s story](https://biiird.com/blog/mikes-story/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://biiird.com/blog/)
+➡️ [more blog posts...](https://biiird.com/thinking/)
 
 [michalkuczek.pl]: https://michalkuczek.pl
 [website]: https://biiird.com
 [writing_program]: https://michalkuczek.pl/projekt-przyszlosc/
-[youtube]: https://youtube.com/biiird
+[youtube]: https://www.youtube.com/@biiirdstudio
 [instagram]: https://instagram.com/michal_kuczek
 [linkedin]: https://linkedin.com/in/michalkuczek/
 [wiseratwork]: https://wiseratwork.com
