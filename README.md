@@ -1,6 +1,4 @@
-## I'm a Psychologist and data analyst
-
-- 📚 I have learned stuff myself. I went to school only for 1 year, and from 6 grade, all I know is a result of active research.
+- 📚 Learned stuff myself. I went to school only for 1 year, all I know is a result of active research.
 - 🧠 As a Psychologist, I offer help with CBT-I therapy for insomnia and other sleep related problems.
 - 🌱 I am learning R-lang.
 
