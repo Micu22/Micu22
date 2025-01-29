@@ -18,11 +18,11 @@
 <br />
 ### ✒ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I solved 500 R-lang problems to learn R](https://biiird.com/thinking/i-solved-500-r-lang-problems-to-learn-r/)
 - [Once People Stop Fighting for Basic Needs, They Start Caring About the Planet](https://biiird.com/thinking/once-people-stop-fighting-for-basic-needs-they-start-caring-about-the-planet/)
 - [Text Overflow Ellipsis based on lines &lpar;Line Clamping&rpar;](https://biiird.com/thinking/text-overflow-ellipsis-based-on-lines-line-clamping/)
 - [How to package a theme into a zip file using git](https://biiird.com/thinking/how-to-package-a-theme-into-a-zip-file-using-git/)
 - [Improve performance of WP_Query](https://biiird.com/thinking/improve-performance-of-wp_query/)
-- [How to set up Tailwind CSS &lpar;JIT&rpar; for WordPress](https://biiird.com/thinking/how-to-set-up-tailwind-css-for-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://biiird.com/thinking/)
